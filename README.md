@@ -8,7 +8,9 @@ I have a liking for mathematical cryptography and reverse engineering. I spend a
 
 On my GH profile, you'll find some stuff that I've gathered and built over somet time. They are all byproducts of my time with computers. It includes projects, scripts and other misc stuff like config files. Open source is <3
 
-My other interests include music and pixel art.
+My other interests include classical music and pixel art.
+
+I have a [Blog](https://crystalsage.github.io) as well :)
 
 <!---
 CrystalSage/CrystalSage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
