@@ -1,12 +1,11 @@
 Greetings :) 
 
 # $whoami
-I'm Amit also known as Bourbon by my online presence. 
+I'm Amit, also known as Bourbon by my online presence. 
 
-I am passionate programmer, computer security enthusiast and I love computers! I play cybersecurity CTFs regularly and have a big interest in security research and programming. 
-I have a liking for mathematical cryptography and reverse engineering. I spend a lot of time learning anything computer science related things I set my eyes on.
+I am passionate programmer and computer security enthusiast. I love computers! I play cybersecurity CTFs regularly and have a big interest in security research and programming. I have a liking for mathematical cryptography and reverse engineering. I spend a lot of time self-learning any and every thing I set my eyes on.
 
-On my GH profile, you'll find some stuff that I've gathered and built over somet time. They are all byproducts of my time with computers. It includes projects, scripts and other misc stuff like config files. Open source is <3
+On my GH profile, you'll find some stuff that I've gathered and built over some time. They are all byproducts of my time with computers. It includes projects, scripts and other misc stuff like config files. Open source is <3
 
 My other interests include classical music and pixel art.
 
